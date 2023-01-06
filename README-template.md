@@ -97,6 +97,3 @@ To see how you can add code snippets, see below:
 - BINUS Email - adyatama.mahabarata@binus.ac.id
 
 ## Acknowledgments
-
-- CARLO NATHANAEL BESSIE
-- ABDULLAH AKMAL SUTOYO
