@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![100](../design/Result1.png)
-![100](../design/Result2.png)
-![100](../design/Result3.png)
+![100](./design/Result1.png)
+![100](./design/Result2.png)
+![100](./design/Result3.png)
 
 
 
